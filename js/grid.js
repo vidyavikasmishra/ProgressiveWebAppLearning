@@ -55,11 +55,11 @@
 
 function getValue()
 {    
-    return gridData=    
-     [{"personName":"Test1","age":"29","companyName":"Test","dob":"02/07/1992",
+    return gridData=  idbApp.showEmployees();  
+   /*   [{"personName":"Test1","age":"29","companyName":"Test","dob":"02/07/1992",
     "email":"test@gmail.com","customerEditor":"Test","id":1},
     {"personName":"Test2","age":"29","companyName":"est","dob":"02/07/1898","email":"uop@gmail.com",
-    "customerEditor":"Harley","id":2}] 
+    "customerEditor":"Harley","id":2}]  */
     
 
 }
